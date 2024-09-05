@@ -2,4 +2,4 @@ Chrome driver - https://storage.googleapis.com/chrome-for-testing-public/128.0.6
 
 **Need virtual enviroment
 
-<bold>streamlit run yourscript.py</bold>
+><bold>streamlit run yourscript.py</bold>
