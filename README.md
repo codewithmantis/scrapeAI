@@ -3,4 +3,4 @@ Chrome driver - https://storage.googleapis.com/chrome-for-testing-public/128.0.6
 **Need virtual enviroment
 
 ><bold>streamlit run yourscript.py</bold>
->ai\Scripts\activate
+\n>ai\Scripts\activate
